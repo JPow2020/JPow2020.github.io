@@ -245,7 +245,8 @@ h3 {
 
 
 /* Mobile */
-@media (max-width: 480px) {
+
+@media (pointer: course) {
 
 header {
   position:absolute;
