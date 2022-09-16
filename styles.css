@@ -246,7 +246,7 @@ h3 {
 
 /* Mobile */
 
-@media (pointer: course) {
+@media only screen {
 
 header {
   position:absolute;
