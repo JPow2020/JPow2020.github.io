@@ -245,7 +245,7 @@ h3 {
 
 /* Mobile */
 
-@media only screen  {
+@media (pointer: course) {
 
 header {
   position:absolute;
@@ -471,14 +471,9 @@ h3 {
 }
 
 /* Small Tablets */
-@media (min-width: 321px)and (max-width: 767px) {
-
-}
 
 /* Small Desktops */
-@media (min-width: 768px) and (max-width: 1096px) {
 
-}
 
 .bold-colour {
 	color: #6DC7D0;
